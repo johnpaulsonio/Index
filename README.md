@@ -6,9 +6,9 @@ Index.html
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Mark Nantiza – IT Graduate Portfolio</title>
-<meta name="description" content="Portfolio of Mark Nantiza, a fresh IT graduate and aspiring web developer from Paranaque City, Philippines.">
-<meta property="og:title" content="Mark Nantiza – IT Graduate Portfolio">
+<title>Sonio John Paul – IT Graduate Portfolio</title>
+<meta name="description" content="Portfolio of Sonio John Paul, a fresh IT graduate and aspiring web developer from Laspinas City, Philippines.">
+<meta property="og:title" content="Sonio John Paul– IT Graduate Portfolio">
 <meta property="og:description" content="Web projects, skills and contact details of a fresh IT graduate.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💻</text></svg>">
@@ -17,7 +17,7 @@ Index.html
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
 <meta name="theme-color" content="#f5f0e6">
 <script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Mark John Ally Nantiza","jobTitle":"Junior Web Developer","alumniOf":"Datamex College of Saint Adeline","address":{"@type":"PostalAddress","addressLocality":"Paranaque City","addressCountry":"PH"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Sonio John Paul","jobTitle":"Junior Web Developer","alumniOf":"Datamex College of Saint Adeline","address":{"@type":"PostalAddress","addressLocality":"Laspinas City","addressCountry":"PH"}}</script>
 <style>
 :root{--bg:#f5f0e6;--card:#fbf8f1;--ink:#1a1f2e;--mute:#6b665a;--line:#d9d1bf;--accent:#8a6420;--accent-ink:#fff;--serif:'Cormorant Garamond',Georgia,'Times New Roman',serif;--sans:'Source Sans 3',system-ui,-apple-system,'Segoe UI',sans-serif;--mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1319;--card:#171c24;--ink:#efe8d8;--mute:#a39d8e;--line:#2a303b;--accent:#d4a95a;--accent-ink:#0f1319}}
@@ -187,7 +187,7 @@ section{padding:60px 0}
 <canvas id="bg" aria-hidden="true"></canvas>
 <a class="skip" href="#about">Skip to content</a>
 <header><div class="wrap bar">
-<a class="logo" href="#top">Mark John Ally Nantiza</a>
+<a class="logo" href="#top">Sonio John Paul</a>
 <nav id="nav" aria-label="Main">
 <a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#education">Education</a><a href="#certificates">Certificates</a><a href="resume.html">Resume</a><a href="#contact">Contact</a>
 </nav>
@@ -199,8 +199,8 @@ section{padding:60px 0}
 <div class="wrap hero">
 <div>
 <span class="badge" data-r style="--i:0">Open to junior roles and internships</span>
-<h1 data-r style="--i:1">Hi, I'm Mark Nantiza. I build <span id="role">web apps</span> and solve problems with code.</h1>
-<p data-r style="--i:2">Fresh Information Technology graduate from Datamex College of Saint Adeline. I turn ideas into working software and I'm looking for a junior developer role where I can learn fast and ship real features.</p>
+<h1 data-r style="--i:1">Hi, I'm John Paul Sonio. I build <span id="role">web apps</span> and solve problems with code.</h1>
+<p data-r style="--i:2">Fresh Information Technology graduate from Datamex College of Saint Adeline..</p>
 <div class="btns" data-r style="--i:3">
 <a class="btn main" href="#projects">View my projects</a>
 <a class="btn" href="resume.html">View resume</a>
