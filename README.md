@@ -200,18 +200,18 @@ section{padding:60px 0}
 <div>
 <span class="badge" data-r style="--i:0">Open to junior roles and internships</span>
 <h1 data-r style="--i:1">Hi, I'm John Paul Sonio. I build <span id="role">web apps</span> and solve problems with code.</h1>
-<p data-r style="--i:2">Fresh Information Technology graduate from Datamex College of Saint Adeline..</p>
+<p data-r style="--i:2"> I am a 4th year college student, bachelor of science in information technology my skills is to develop software, I'm enjoying to explore coding cause I want to challenge myself to create system.</p>
 <div class="btns" data-r style="--i:3">
 <a class="btn main" href="#projects">View my projects</a>
 <a class="btn" href="resume.html">View resume</a>
 </div>
 </div>
 <!-- Add your photo as profile.jpg in the same folder as index.html -->
-<div class="card-col" data-r style="--i:4">
+<div class="card-col" data-r style="--
 <div class="card3d-wrap">
-<div class="card3d" id="card3d" role="button" tabindex="0" aria-pressed="false" aria-label="Profile card of Mark Nantiza. Press to flip it.">
-<div class="face front"><span class="ini">MN</span><img src="profile.jpg" alt="Photo of Mark Nantiza" width="340" height="340" fetchpriority="high" onerror="this.remove()"><i class="glare"></i></div>
-<div class="face back"><b>Mark Nantiza</b><span>BS Information Technology</span><span>Datamex College of Saint Adeline</span><small>click to flip back</small></div>
+<div class="card3d" id="card3d" role="button" tabindex="0" aria-pressed="false" aria-label="Profile card of John Paul Sonio. Press to flip it.">
+<div class="face front"><span class="ini">MN</span><img src="profile.jpg" alt="Photo of John Paul Sonio" width="340" height="340" fetchpriority="high" onerror="this.remove()"><i class="glare"></i></div>
+<div class="face back"><b>John Paul Sonio</b><span>BS Information Technology</span><span>Datamex College of Saint Adeline</span><small>click to flip back</small></div>
 <div class="pop"><img src="profile-cutout.png" alt="" onload="this.closest('.card3d').classList.add('has-cutout')" onerror="this.parentNode.remove()"></div>
 </div>
 </div>
@@ -225,9 +225,9 @@ section{padding:60px 0}
 <p class="sub">A little background on who I am and what I do.</p>
 <div class="about">
 <div>
-<p>I recently graduated with a Bachelor of Science in Information Technology. During my studies I built web systems, designed databases, and worked in small teams on our capstone project.</p>
-<p>I like clean code, clear documentation, and learning new tools. Outside of coding, I enjoy playing video games and making strategies out of it.</p>
-<p>I also have work experience in food service at Jollibee and a Korean grill house, where I learned to multitask, communicate with customers, and work as part of a team.</p>
+<p>I am the BS information technology student of datamex college of Saint Adeline Paranaque.</p>
+<p>I love physical activities like a basketball,baseball,soccer and I love singing too.</p>
+<p>.</p>
 <div class="stats">
 <div><b data-count="3" data-suffix="+">0</b><span>Projects built</span></div>
 <div><b data-count="8" data-suffix="+">0</b><span>Technologies used</span></div>
