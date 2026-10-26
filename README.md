@@ -225,9 +225,9 @@ section{padding:60px 0}
 <p class="sub">A little background on who I am and what I do.</p>
 <div class="about">
 <div>
-<p>I am the BS information technology student of datamex college of Saint Adeline Paranaque.</p>
-<p>I love physical activities like a basketball,baseball,soccer and I love singing too.</p>
-<p>.</p>
+<p>I am the BS Information Technology student of Datamex College of Saint Adeline Paranaque.</p>
+<p>I love physical activities like a Basketball,Baseball,Soccer and I love Singing too.</p>
+<p> I have previous work experience as a Branch attendant in Laspinas, and I also worked at SM Sucat Hypermarket Parañaque. Through these roles, I learned how to get along with others and developed the communication skills to interact with customers.</p>
 <div class="stats">
 <div><b data-count="3" data-suffix="+">0</b><span>Projects built</span></div>
 <div><b data-count="8" data-suffix="+">0</b><span>Technologies used</span></div>
@@ -235,10 +235,10 @@ section{padding:60px 0}
 </div>
 </div>
 <dl class="facts">
-<dt>Based in</dt><dd>Paranaque City, Philippines</dd>
-<dt>Focus</dt><dd>Web development, databases</dd>
+<dt>Based in</dt><dd>Laspinas City, Philippines</dd>
+<dt>Focus</dt><dd>Web development, data analysis</dd>
 <dt>Status</dt><dd>Open to junior and internship roles</dd>
-<dt>Email</dt><dd><a href="mailto:marknantiza56@gmail.com">marknantiza56@gmail.com</a></dd>
+<dt>Email</dt><dd><a href="johnpaulsonio48@gmail.com">johnpaulsonio48@gmail.com</a></dd>
 </dl>
 </div>
 </div></section>
@@ -248,10 +248,10 @@ section{padding:60px 0}
 <h2>Skills</h2>
 <p class="sub">My strongest areas first, then everything else I've used.</p>
 <div class="levels">
-<div><div class="lv">HTML and CSS <span>85%</span></div><div class="track"><div class="fill" data-level="85"></div></div></div>
-<div><div class="lv">JavaScript <span>70%</span></div><div class="track"><div class="fill" data-level="70"></div></div></div>
-<div><div class="lv">SQL and databases <span>75%</span></div><div class="track"><div class="fill" data-level="75"></div></div></div>
-<div><div class="lv">Python <span>65%</span></div><div class="track"><div class="fill" data-level="65"></div></div></div>
+<div><div class="lv">HTML and CSS <span>55%</span></div><div class="track"><div class="fill" data-level="55"></div></div></div>
+<div><div class="lv">JavaScript <span>45%</span></div><div class="track"><div class="fill" data-level="45"></div></div></div>
+<div><div class="lv">SQL and databases <span>40%</span></div><div class="track"><div class="fill" data-level="40"></div></div></div>
+<div><div class="lv">Python <span>60%</span></div><div class="track"><div class="fill" data-level="60"></div></div></div>
 </div>
 <div class="skills">
 <div><h3>Languages</h3><ul class="tags"><li>JavaScript</li><li>Python</li><li>Java</li><li>PHP</li><li>SQL</li><li>C#</li></ul></div>
@@ -294,8 +294,8 @@ section{padding:60px 0}
 <p class="sub">Where I studied and what I've completed.</p>
 <div class="timeline">
 <h3>BS Information Technology</h3><p>Datamex College of Saint Adeline · 2023–2027</p>
-<h3>Senior High School</h3><p>AZGH College Inc. · 2020–2022</p>
-<h3>High School</h3><p>Las Piñas National High School · 2016–2020</p>
+<h3>Senior High School</h3><p>Laspinas national SHS manuyo uno campus. · 2020–2022</p>
+<h3>High School</h3><p>Laspinas National High School Main · 2016–2020</p>
 </div>
 </div></section>
 
@@ -321,7 +321,7 @@ section{padding:60px 0}
 <p class="sub">I'm available for junior developer roles and internships.</p>
 <div class="contact-grid">
 <div class="btns" style="flex-direction:column;align-items:flex-start">
-<a class="btn main" href="mailto:marknantiza56@gmail.com">Email me</a>
+<a class="btn main" href="mailto: johnpaulsonio48@gmail.com">Email me</a>
 <button class="btn" id="copy" type="button">Copy email address</button>
 <a class="btn" href="https://github.com/your-username" target="_blank" rel="noopener">GitHub</a>
 <a class="btn" href="https://linkedin.com/in/your-name" target="_blank" rel="noopener">LinkedIn</a>
@@ -339,7 +339,7 @@ section{padding:60px 0}
 </div></section>
 </main>
 
-<footer><div class="wrap">© <span id="yr">2026</span> Mark Nantiza. Built with HTML, CSS and JavaScript.</div></footer>
+<footer><div class="wrap">© <span id="yr">2026</span> John Paul Sonio. Built with HTML, CSS and JavaScript.</div></footer>
 <button class="icon-btn top" id="top-btn" aria-label="Back to top">↑</button>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <dialog id="lb" aria-label="Certificate preview"><img id="lb-img" alt=""><button class="btn main" type="button" id="lb-close">Close</button></dialog>
@@ -347,7 +347,7 @@ section{padding:60px 0}
 <script>
 (function(){
   /* ---- settings: edit these ---- */
-  var EMAIL="marknantiza56@gmail.com";
+  var EMAIL="johnpaulsonio48@gmail.com";
   /* contact.php needs PHP hosting. Use a full URL if it lives on another site. On GitHub Pages the form falls back to your email app. Set to "" to always use the email app. */
   var FORM_ENDPOINT="contact.php";
   var ROLES=["web apps","databases","clean interfaces","useful tools"];
