@@ -6,9 +6,9 @@ Index.html
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Sonio John Paul – IT Graduate Portfolio</title>
-<meta name="description" content="Portfolio of Sonio John Paul, a fresh IT graduate and aspiring web developer from Laspinas City, Philippines.">
-<meta property="og:title" content="Sonio John Paul– IT Graduate Portfolio">
+<title>John Paul Sonio– IT Graduate Portfolio</title>
+<meta name="description" content="Portfolio of John Paul Sonio, a fresh IT graduate and aspiring web developer from Laspinas City, Philippines.">
+<meta property="og:title" content=" John Paul Sonio– IT Graduate Portfolio">
 <meta property="og:description" content="Web projects, skills and contact details of a fresh IT graduate.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💻</text></svg>">
@@ -17,7 +17,7 @@ Index.html
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
 <meta name="theme-color" content="#f5f0e6">
 <script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Sonio John Paul","jobTitle":"Junior Web Developer","alumniOf":"Datamex College of Saint Adeline","address":{"@type":"PostalAddress","addressLocality":"Laspinas City","addressCountry":"PH"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"John Paul Sonio","jobTitle":"Junior Web Developer","alumniOf":"Datamex College of Saint Adeline","address":{"@type":"PostalAddress","addressLocality":"Laspinas City","addressCountry":"PH"}}</script>
 <style>
 :root{--bg:#f5f0e6;--card:#fbf8f1;--ink:#1a1f2e;--mute:#6b665a;--line:#d9d1bf;--accent:#8a6420;--accent-ink:#fff;--serif:'Cormorant Garamond',Georgia,'Times New Roman',serif;--sans:'Source Sans 3',system-ui,-apple-system,'Segoe UI',sans-serif;--mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1319;--card:#171c24;--ink:#efe8d8;--mute:#a39d8e;--line:#2a303b;--accent:#d4a95a;--accent-ink:#0f1319}}
