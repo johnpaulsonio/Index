@@ -183,7 +183,7 @@ section{padding:60px 0}
 <canvas id="bg" aria-hidden="true"></canvas>
 <a class="skip" href="#about">Skip to content</a>
 <header><div class="wrap bar">
-<a class="logo" href="#top">Sonio John Paul</a>
+<a class="logo" href="#top"> John Paul Sonio </a>
 <nav id="nav" aria-label="Main">
 <a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#education">Education</a><a href="#certificates">Certificates</a><a href="resume.html">Resume</a><a href="#contact">Contact</a>
 </nav>
