@@ -203,12 +203,11 @@ section{padding:60px 0}
 </div>
 </div>
 <!-- Add your photo as profile.jpg in the same folder as index.html -->
-<div class="card-col" data-r style="--
 <div class="card3d-wrap">
 <div class="card3d" id="card3d" role="button" tabindex="0" aria-pressed="false" aria-label="Profile card of John Paul Sonio. Press to flip it.">
 <div class="face front"><span class="ini">MN</span><img src="profile.jpg" alt="Photo of John Paul Sonio" width="340" height="340" fetchpriority="high" onerror="this.remove()"><i class="glare"></i></div>
 <div class="face back"><b>John Paul Sonio</b><span>BS Information Technology</span><span>Datamex College of Saint Adeline</span><small>click to flip back</small></div>
-<div class="pop"><img src="profile-cutout.png" alt="" onload="this.closest('.card3d').classList.add('has-cutout')" onerror="this.parentNode.remove()"></div>
+<div class="pop"><img src="profile-cutout.png" alt="" onload="this.closest('.card3d').classList.add('has-cutout')" onerror="this.parentNode.remove()"></
 </div>
 </div>
 <span class="hint">Tilt me · click to flip</span>
